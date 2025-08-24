@@ -70,9 +70,10 @@ Mention bot:
  ┣ 📜 .env               # config token & API key
  ┣ 📜 package.json
  ┗ 📜 README.md
-
+![sample](image1.jpg)
 
 Catatan
 Bot nyamar jadi manusia biasa, jangan sampe ngaku AI/bot.
 Jangan lupa invite bot ke server pake scope:
+
 bot applications.commands
