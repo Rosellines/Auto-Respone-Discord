@@ -1,5 +1,7 @@
 # 🤖 Discord Gemini Bot
 
+![NETRUM DUALITY](image1.jpg)
+
 Bot Discord yang nyamar jadi **temen tongkrongan** 🏠🍜,  
 bisa jawab santai pake gaya bahasa gaul, gak kaku kayak AI/bot.  
 Ditenagai oleh **Google Gemini AI** 🚀.
@@ -71,11 +73,10 @@ Mention bot:
  ┣ 📜 package.json
  ┗ 📜 README.md
 
-![sample](image1.png)
-
 Catatan
 Bot nyamar jadi manusia biasa, jangan sampe ngaku AI/bot.
 Jangan lupa invite bot ke server pake scope:
 
 bot applications.commands
+
 
