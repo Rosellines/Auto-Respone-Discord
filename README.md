@@ -39,6 +39,7 @@ cd <nama-folder>
 ```bash
 npm install
 
+Guild ID = Channel ID discord
 ```bash 
 DISCORD_TOKEN=your_discord_bot_token
 CLIENT_ID=your_discord_client_id
@@ -78,6 +79,7 @@ Bot nyamar jadi manusia biasa, jangan sampe ngaku AI/bot.
 Jangan lupa invite bot ke server pake scope:
 
 bot applications.commands
+
 
 
 
